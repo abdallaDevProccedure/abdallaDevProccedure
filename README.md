@@ -55,7 +55,7 @@ ___
 
 </br>
 <h3>Contador de visitas:</h3>
-<p> <img src="https://profile-counter.glitch.me/leonardoabdalla/count.svg"/></p>
+<p> <img src="https://profile-counter.glitch.me/abdallaDevProccedure/count.svg"/></p>
 </br>
 
 ___
